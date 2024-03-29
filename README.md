@@ -21,3 +21,5 @@ MFRC522
 RPi soft-SPI
 
 RPi Liquid Crystal Display
+
+**Instructions to use the Code:**
